@@ -1,5 +1,6 @@
 
 # 👋 Добре дошли в DHS Soft Hub
+[for english](#english-version)
 
 ## 🧭 Какво представлява DHS Soft Hub?
 
@@ -69,7 +70,7 @@
 
 Ако срещнете проблем или имате въпроси:
 - Използвайте вътрешната система за съобщения
-- Или се свържете с екипа: `support@dhs-soft.com`
+- Или се свържете: `hristo.iliev.ganchev@gmail.com`
 
 ---
 
@@ -82,3 +83,90 @@
 ---
 
 > 🤝 DHS Soft Hub вярва в прозрачна комуникация, гъвкаво изпълнение и доверие между клиент и екип. Радваме се, че сте с нас!
+
+# English Version
+
+# 👋 Welcome to DHS Soft Hub
+
+## 🧭 What is DHS Soft Hub?
+
+**DHS Soft Hub** is a modular platform for developing tailored software solutions. It connects clients and developers through a structured process—from the initial idea to final product delivery.
+
+---
+
+## 🧑‍💼 For Clients
+
+### 🎯 What you can do:
+- Submit a **new project** from **Start project** button.
+- Refine requirements through an **interactive discussion module**
+- Review and approve **quotes**, make **online payments**
+- Receive **live demos** and provide feedback
+- Track progress and receive **final delivery**
+
+### 📝 Getting started:
+1. **Register** through [registration link]((https://dhs-hub-portal.vercel.app/client))
+2. Log in and create a new **project inquiry**
+3. Our team will contact you to start the process
+
+> 💡 Everything happens on the platform: communication, documentation, offers, payments, and progress tracking.
+
+---
+
+## 👨‍💻 For Developers
+
+### 👷 What you can do:
+- Browse available client projects
+- Apply to become a **Lead Developer**
+- Work on tasks based on the approved specification
+- Collaborate via the project chat
+- Participate in demo sessions and feature approvals
+
+### 🛠️ How to join:
+1. **Register** as a developer through [developer signup link](https://dhs-hub-portal.vercel.app/developer)
+2. Complete your profile with skills and GitHub/portfolio links
+3. Browse **open projects** and apply for available roles
+4. Upon approval, gain access to the project and related tasks
+
+> 🚀 Your contributions build your reputation in the system — higher quality work leads to more project opportunities.
+
+---
+
+## 🧑‍🔧 User Roles
+
+| Role              | Permissions                                                                 |
+|-------------------|------------------------------------------------------------------------------|
+| Client            | Create projects, participate in discussions, approve quotes and payments     |
+| Developer         | Work on assigned tasks, communicate with project members                     |
+| Lead Developer    | Manage sprints, coordinate devs, lead demo sessions                          |
+| Administrator     | Approve access, assign roles, oversee platform activity                      |
+
+---
+
+## 🔐 What happens after registration?
+
+Once registered:
+- You’ll receive a confirmation email
+- You can log in and:
+  - (Clients) Submit a project
+  - (Developers) Apply to join open projects
+
+---
+
+## 📫 Support
+
+Need help or have questions?
+- Use the internal support messaging system
+- Or email: `hristo.iliev.ganchev@gmail.com`
+
+---
+
+## 📌 Quick Links
+
+- 🌐 Main Portal: [dhs-soft-hub](https://dhs-hub-portal.vercel.app)
+- 💬 Discord Server: [DHS Soft Hub](https://discord.gg/hQrbcFnH)
+- 💬 GitHub Discussions: [github.com/DHS-Soft-Hub/discussions](https://github.com/DHS-Soft-Hub/discussions)
+
+---
+
+> 🤝 DHS Soft Hub promotes transparent communication, agile delivery, and trust between clients and developers. We're glad to have you with us!
+
