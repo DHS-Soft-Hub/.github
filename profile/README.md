@@ -75,8 +75,8 @@
 
 ## 📌 Линкове
 
-- 🌐 Основен портал: [dhs-soft-hub.com](https://dhs-hub-portal.vercel.app/client)
-- 🧾 Документация: 
+- 🌐 Основен портал: [dhs-soft-hub](https://dhs-hub-portal.vercel.app)
+- 💬 Дискорд сървър: [DHS Soft Hub](https://discord.gg/hQrbcFnH)
 - 💬 GitHub Discussions: [github.com/DHS-Soft-Hub/discussions](https://github.com/DHS-Soft-Hub/discussions)
 
 ---
